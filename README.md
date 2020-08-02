@@ -7,3 +7,7 @@
 ## Assumptions
 
 •	It has assumed that sellers have their own descriptions and images like in eBay.
+
+## Note
+
+•	SQL file and API doc also attached to the resources folder in the project.
